@@ -80,3 +80,6 @@ Hébergeur
 Crédits (Pixabay)
 Meta :
 <meta name="robots" content="noindex, nofollow">
+
+📌 Version en ligne :
+👉 (À ajouter après ton déploiement)
