@@ -9,7 +9,10 @@ Mon blog
 Un formulaire de contact
 Une application React intégrée affichant mon profil GitHub via l’API officielle
 Le site respecte la charte graphique imposée, est responsive, optimisé pour le SEO, et hébergé en ligne.
+
+
 🔧 Technologies utilisées
+
 React.js (avec Vite)
 React Router
 Bootstrap 5
@@ -17,7 +20,10 @@ Font Awesome 6
 React Helmet / Helmet-Async (SEO)
 Fetch API (appel de l’API GitHub)
 CSS personnalisé
+
+
 🎨 Charte graphique
+
 Police : Nunito Sans
 Couleurs principales :
 Fond : #EEE
@@ -26,7 +32,10 @@ Titres : #1e1e1e
 Couleur principale : #0d6efd
 Icônes : Font Awesome
 Design : Responsive (mobile, tablette, desktop) via Bootstrap
+
+
 📂 Structure du projet
+
 src/
   assets/
     css/
@@ -54,26 +63,36 @@ src/
 
   App.jsx
   main.jsx
+
+  
 🚀 Installation et lancement du projet
-1️⃣ Prérequis
+
+1️⃣ Prérequis:
 Node.js ≥ 16
 npm ou yarn
-2️⃣ Installation du projet
+
+2️⃣ Installation du projet:
 git clone https://github.com/mhajar-salma/portfolio-salma-react.git
 cd portfolio-salma-react
 npm install
-3️⃣ Lancement en mode développement
+
+3️⃣ Lancement en mode développement:
 npm run dev
-4️⃣ Build pour la mise en production
+
+4️⃣ Build pour la mise en production:
 npm run build
 Le dossier dist/ est alors généré.
+
 🌍 Hébergement
+
 Le projet est compatible avec :
 ✅ GitHub Pages (choisi pour ce projet)
 Netlify
 Vercel
-CodeSandbox (autorisé par l’énoncé)
+CodeSandbox 
+
 📡 Application GitHub API
+
 Le composant GithubProfile.jsx utilise l’API officielle GitHub :
 https://api.github.com/users/mhajar-salma
 Il affiche dynamiquement :
@@ -102,5 +121,8 @@ La page Mentions légales contient :
 ✅ Site hébergé
 ✅ Code structuré en composants
 ✅ README complet
+
+
 🌍 Version en ligne
+
 👉 https://mhajar-salma.github.io/portfolio-salma-react/
